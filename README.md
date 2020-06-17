@@ -1,7 +1,7 @@
 # DSC190A-Data Mining Challenge
 [Kaggle Leaderboard](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining/leaderboard)
 
-## Ranking
+## Rank
 Leaderboard: 6th Place (RMSE: 78.94)
 
 ## Dataset
